@@ -53,7 +53,7 @@ python3 main.py
 ---
 
 ## 🖼️ Example Screenshot
-
+![Screenshot](Screenshot.png)
 ---
 
 ## 📝 Notes
